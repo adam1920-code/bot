@@ -5,8 +5,8 @@ const help = (prefix, ig, name, uptime, pushname2, user, tanggal, jam) => {
 \`\`\`Follow My Instagram\`\`\`
 ${ig}
 
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+\`\`\`BLOG OFFICIAL\`\`\`
+https://peoplepower107.blogspot.com
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
@@ -88,54 +88,54 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╭─────────────────────────
 ├⊱❥ *${prefix}imoji [❤️]*
 ├⊱❥ *${prefix}tts [id Haii]*
-├⊱❥ *${prefix}ttp [Fxc7]*
-├⊱❥ *${prefix}csky [FXC7]*
-├⊱❥ *${prefix}cwooden [FXC7]*
-├⊱❥ *${prefix}ccrossfire [FXC7]*
-├⊱❥ *${prefix}cnaruto [FXC7]*
-├⊱❥ *${prefix}cgbutton [FXC7]*
-├⊱❥ *${prefix}csbutton [FXC7]*
-├⊱❥ *${prefix}cflower [FXC7]*
-├⊱❥ *${prefix}ctxtneon [FXC7]*
-├⊱❥ *${prefix}cflame3d [FXC7]*
-├⊱❥ *${prefix}caglow [FXC7]*
-├⊱❥ *${prefix}cgneon [FXC7]*
-├⊱❥ *${prefix}cthunder [FXC7]*
-├⊱❥ *${prefix}cbokeh [FXC7]*
-├⊱❥ *${prefix}ctoxic [FXC7]*
-├⊱❥ *${prefix}cmatrix [FXC7]*
-├⊱❥ *${prefix}cmusic [FXC7]*
-├⊱❥ *${prefix}cblood [FXC7]*
-├⊱❥ *${prefix}cwater [FXC7]*
-├⊱❥ *${prefix}clava [FXC7]*
-├⊱❥ *${prefix}cfire [FXC7]*
-├⊱❥ *${prefix}cholo [FXC7]*
-├⊱❥ *${prefix}cminion [FXC7]*
-├⊱❥ *${prefix}cold [FXC7]*
-├⊱❥ *${prefix}cneon [FXC7]*
-├⊱❥ *${prefix}csunmory [FXC7]*
-├⊱❥ *${prefix}cbalon [FXC7]*
-├⊱❥ *${prefix}cglue3d [FXC7]*
-├⊱❥ *${prefix}csraved [FXC7]*
-├⊱❥ *${prefix}cswrite [FXC7]*
-├⊱❥ *${prefix}cssummer [FXC7]*
-├⊱❥ *${prefix}ccsky [FXC7]*
-├⊱❥ *${prefix}ccloud [FXC7]*
-├⊱❥ *${prefix}crvintage [FXC7]*
-├⊱❥ *${prefix}cbpink [FXC7]*
-├⊱❥ *${prefix}ctext3d [FXC7]*
+├⊱❥ *${prefix}ttp [teks]*
+├⊱❥ *${prefix}csky [teks]*
+├⊱❥ *${prefix}cwooden [teks]*
+├⊱❥ *${prefix}ccrossfire [teks]*
+├⊱❥ *${prefix}cnaruto [teks]*
+├⊱❥ *${prefix}cgbutton [teks]*
+├⊱❥ *${prefix}csbutton [teks]*
+├⊱❥ *${prefix}cflower [teks]*
+├⊱❥ *${prefix}ctxtneon [teks]*
+├⊱❥ *${prefix}cflame3d [teks]*
+├⊱❥ *${prefix}caglow [teks]*
+├⊱❥ *${prefix}cgneon [teks]*
+├⊱❥ *${prefix}cthunder [teks]*
+├⊱❥ *${prefix}cbokeh [teks]*
+├⊱❥ *${prefix}ctoxic [teks]*
+├⊱❥ *${prefix}cmatrix [teks]*
+├⊱❥ *${prefix}cmusic [teks]*
+├⊱❥ *${prefix}cblood [teks]*
+├⊱❥ *${prefix}cwater [teks]*
+├⊱❥ *${prefix}clava [teks]*
+├⊱❥ *${prefix}cfire [teks]*
+├⊱❥ *${prefix}cholo [teks]*
+├⊱❥ *${prefix}cminion [teks]*
+├⊱❥ *${prefix}cold [teks]*
+├⊱❥ *${prefix}cneon [teks]*
+├⊱❥ *${prefix}csunmory [teks]*
+├⊱❥ *${prefix}cbalon [teks]*
+├⊱❥ *${prefix}cglue3d [teks]*
+├⊱❥ *${prefix}csraved [teks]*
+├⊱❥ *${prefix}cswrite [teks]*
+├⊱❥ *${prefix}cssummer [teks]*
+├⊱❥ *${prefix}ccsky [teks]*
+├⊱❥ *${prefix}ccloud [teks]*
+├⊱❥ *${prefix}crvintage [teks]*
+├⊱❥ *${prefix}cbpink [teks]*
+├⊱❥ *${prefix}ctext3d [teks]*
 ╰─────────────────────────
 
 ╭──────────────────────────────
-├⊱❥ *${prefix}cstune3d [FXC7/BOT]*
-├⊱❥ *${prefix}cspace3d [FXC7/BOT]*
-├⊱❥ *${prefix}cmarvel [FXC7/BOT]*
-├⊱❥ *${prefix}cavengers [FXC7/BOT]*
-├⊱❥ *${prefix}cpubg [FXC7/BOT]*
-├⊱❥ *${prefix}cglitch [FXC7/BOT]*
-├⊱❥ *${prefix}cluxury [FXC7]*
-├⊱❥ *${prefix}cmetal [FXC7/BOT]*
-├⊱❥ *${prefix}cphlogo [FXC7/BOT]*
+├⊱❥ *${prefix}cstune3d [YEONGSIL/BOT]*
+├⊱❥ *${prefix}cspace3d [YEONGSIL/BOT]*
+├⊱❥ *${prefix}cmarvel [YEONGSIL/BOT]*
+├⊱❥ *${prefix}cavengers [YEONGSIL/BOT]*
+├⊱❥ *${prefix}cpubg [YEONGSIL/BOT]*
+├⊱❥ *${prefix}cglitch [YEONGSIL/BOT]*
+├⊱❥ *${prefix}cluxury [TEKS]*
+├⊱❥ *${prefix}cmetal [YEONGSILL/BOT]*
+├⊱❥ *${prefix}cphlogo [YEONGSILL/BOT]*
 ├⊱❥ *${prefix}quotemaker [tx/wtrmk/tema]*
 ├⊱❥ *${prefix}nulis [nama/kelas/text]*
 ╰──────────────────────────────
@@ -310,10 +310,10 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ⟣━━━━━━❬ *SUPPORT ${name}* ❭━━━━━━⟢
 ╭────────────────────────
 │
-├➲ *O BOT*
-├➲ *M. HADI FIRMANSYA*
-├➲ *DELIA AULIA*
-├➲ *KEVIN DAVID*
+├➲ *ADAM OEY19*
+├➲ *KEDUA ORANG TUA*
+├➲ *MY DEVICE*
+├➲ *WHATSAPP*
 ╰────────────────────────
 
 
@@ -332,9 +332,9 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┃ \`\`\`Harap Lapor Owner Dengan Cara\`\`\`
 ┃ *${prefix}report* \`\`\`apa pesan errornya\`\`\`
 ┃
-┣⊱❥ \`\`\`Mau Invit Bot?? Donasi Gan,\`\`\`
+┣⊱❥ \`\`\`Mau Invit Bot??lempar link,\`\`\`
 ┃ \`\`\`Kalo Gamau Donasi Follow Ig\`\`\`
-┃ \`\`\`@_farhan_xcode7\`\`\`
+┃ \`\`\`@adam_oey107\`\`\`
 ┃
 ┣⊱❥ \`\`\`Kalian Bisa Mempublish Quotes Kalian\`\`\`
 ┃ \`\`\`Jika Minat Hubungi Aja Owner Buat\`\`\`
