@@ -5,14 +5,30 @@ const donasi = (Ig, name) => {
 ┣━━━━━━━━━━━━━━━━━━━━
 ┣━⊱ *DONASI SEIKHLASNYA:)* ❉⊰━━✿
 ┃  
-┣━⊱ *OVO*
-┣⊱ 08311800241
+┣━⊱ *DANA*
+┣⊱ 083152843600
 ┣━⊱ *PULSA*
-┣⊱ 08311800241
+┣⊱ 083153843600
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃  *BOT BY ${name}*
 ┗━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━━━━━━━━━━
+┃          𝗗𝗢𝗡𝗔𝗦𝗜  
+┣━━━━━━━━━━━━━━━━━━━━
+┣━⊱ *IKLAN* ❉⊰━━✿
+┃  
+┣━⊱ *MAU PUNYA BOT SENDIRI??*
+┣⊱ *HARGA SCRIPT HANYA 35K VIA DANA*
+┣━⊱ *KETIK .owner UNTUK BELI DAN BANTUAN PEMASANGAN*
+┣⊱ *KEUNTUNGAN*
+┃*PUNYA BOT SENDIRI DAN SCRIPT INI BISA DIJUAL KEMBALI UNTUNG BANGET TUH WKWK*
+┣━━━━━━━━━━━━━━━━━━━━
+┃  *BOT BY ${name}*
+┗━━━━━━━━━━━━━━━━━━━━
+
+
+
 Note:
 Jika Gamau Donasi Setidaknya Follow IG Ngab:D
 Kalo Dah Donasi Silahkan Invit Di Group Kalian:)
