@@ -67,7 +67,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 prefix = '.'
 ig = 'https://www.instagram.com/_farhan_xcode7'
-name = '~ F X C 7 B O T'
+name = '~ YEONGSILL BOT'
 
 function kyun(seconds){
   function pad(s){
