@@ -60,14 +60,14 @@ let {
 ban = []
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
-            + 'ORG:Creator FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'FN:Adam Oey19\n'
+            + 'ORG:Creator yeongsill;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6283153843600:+62 831-5384-3600\n'
             + 'END:VCARD'
 
 prefix = '.'
-ig = 'https://www.instagram.com/_farhan_xcode7'
-name = '~ F X C 7 B O T'
+ig = 'https://www.instagram.com/adam_oey107'
+name = 'YEONGSILL BOT'
 
 function kyun(seconds){
   function pad(s){
@@ -155,7 +155,7 @@ async function starts() {
 			pushname2 = client.contacts[nameReq] != undefined ? client.contacts[nameReq].vname || client.contacts[nameReq].notify : undefined
 
 			const BarBarApi = 'barbar api' 
-			const ZeksApi = 'zeks api' 
+			const ZeksApi = 'apivinz' 
 			const TechApi = 'tech api'
 			const TobzApi = 'BotWeA' 
 			const totalchat = await client.chats.all()
@@ -195,8 +195,8 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["628311800241@s.whatsapp.net"]
-			const premium = ["628311800241@s.whatsapp.net"]
+			const ownerNumber = ["6283153843600@s.whatsapp.net"]
+			const premium = ["6283153843600@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -2427,7 +2427,8 @@ async function starts() {
 			if (isBanned) return reply(mess.only.benned)    
 				if (!isUser) return reply(mess.only.userB)
 				if (!isPrem) return reply(mess.only.premium)
-                anu = await fetchJson(`https://tobz-api.herokuapp.com/api/joox?q=${body.slice(6)}&apikey=${TobzApi}`, {method: 'get'})
+                                joox = body.slice(7)
+                anu = await fetchJson(`https://tobz-api.herokuapp.com/api/joox?q=${joox}&apikey=${TobzApi}`, {method: 'get'})
                if (anu.error) return reply(anu.error)
                  infomp3 = `「 *JOOX* 」\n\n*• Judul* : ${anu.result.judul}\n*• Album* : ${anu.result.album}\n*• Dipublikasi* : ${anu.result.dipublikasi}\n\n*TUNGGU SEBENTAR LAGI DIKIRIM MOHON JANGAN SPAM*`
                 bufferddd = await getBuffer(anu.result.thumb)
@@ -2490,7 +2491,7 @@ async function starts() {
                     if (args.length < 1) return reply('teks nya mana om?')
                    wiki = body.slice(5)
                     reply(mess.wait)
-                    anu = await fetchJson(`https://arugaz.herokuapp.com/api/wiki?q=${wiki}`, {method: 'get'})
+                    anu = await fetchJson(`http://arugaz.my.id/api/edu/idwiki?query=${wiki}`, {method: 'get'})
                     if (anu.error) return reply(anu.error)
                     bufferfff = await getBuffer(anu.wiki)
                     wikipedia = `${anu.result}`
