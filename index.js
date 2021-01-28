@@ -67,7 +67,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 prefix = '.'
 ig = 'https://www.instagram.com/adam_oey107'
-name = 'YEONGSILL BOT'
+name = 'BOT MUSIC™'
 
 function kyun(seconds){
   function pad(s){
@@ -2423,7 +2423,7 @@ async function starts() {
 
 
 // premium user
-         case 'joox':
+         case 'music':
 			if (isBanned) return reply(mess.only.benned)    
 				if (!isUser) return reply(mess.only.userB)
 				if (!isPrem) return reply(mess.only.premium)
