@@ -2491,7 +2491,7 @@ async function starts() {
                     if (args.length < 1) return reply('teks nya mana om?')
                    wiki = body.slice(5)
                     reply(mess.wait)
-                    anu = await fetchJson(`http://arugaz.my.id/api/edu/idwiki?query=${wiki}`, {method: 'get'})
+                    anu = await fetchJson(`https://tobz-api.herokuapp.com/api/wiki?q={wiki}&apikey=BotWeA`, {method: 'get'})
                     if (anu.error) return reply(anu.error)
                     bufferfff = await getBuffer(anu.wiki)
                     wikipedia = `${anu.result}`
@@ -2532,7 +2532,7 @@ async function starts() {
 			if (isBanned) return reply(mess.only.benned)
 			if (!isUser) return reply(mess.only.userB)
 			call = body.slice(10)
-			anu = await fetchJson(`https://docs-jojo.herokuapp.com/api/spamcall?no=${call}`, {method: 'get'})
+			anu = await fetchJson(`https://tobz-api.herokuapp.com/api/spamcall?no={call}&apikey=BotWeA`, {method: 'get'})
 			client.sendMessage(from, `${anu.logs}`, text, {quoted: mek})
 			break 
 		case 'spamgmail':
