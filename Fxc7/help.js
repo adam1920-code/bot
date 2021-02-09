@@ -33,3 +33,5 @@ const help = (prefix, ig, name, uptime, pushname2, user, tanggal, jam) => {
 вσт ιηι ∂ιвυαт σℓєн:
 A.D.A.M ✔
 }
+
+  exports.help = help
