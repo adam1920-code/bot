@@ -21,12 +21,14 @@ const help = (prefix, ig, name, uptime, pushname2, user, tanggal, jam) => {
 ● *${prefix}#tts id (teks)*
 ● *${prefix}#toimg*
 ● *${prefix}#tagall*
+● *${prefix}#spamcall [6283153833333*
 ● *${prefix}#pinterest*
 ● *${prefix}#ocr*
 ● *${prefix}#wiki (search)*
 ● *${prefix}#spamcall [62831555555]*
 ● *${prefix}#ytmp3 [link]*
 ● *${prefix}#ytmp4 [link]*
+● *${prefix}#tomp3 [tag vidio]*
 ● *${prefix}#lirik [judul]*
 вσт ιηι ∂ιвυαт σℓєн:
 A.D.A.M ✔
