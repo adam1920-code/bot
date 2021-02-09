@@ -67,7 +67,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 prefix = '.'
 ig = 'https://www.instagram.com/adam_oey107'
-name = 'BOT MUSIC™'
+name = 'YEONGSILL BOT™'
 
 function kyun(seconds){
   function pad(s){
