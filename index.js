@@ -2460,7 +2460,7 @@ async function starts() {
 					if (!isUser) return reply(mess.only.userB)
 					if (args.length < 1) return reply('Urlnya mana gan?')
 					if(!isUrl(args[0]) && !args[0].includes('youtu')) return reply(mess.error.Iv)
-					anu = await fetchJson(`https://mhankbarbar.tech/api/yta?url=${args[0]}&apiKey=${BarBarApi}`, {method: 'get'})
+					anu = await fetchJson(`https://tobz-api.herokuapp.com/api/yta?url={argh[0]}&apikey=BotWeA`, {method: 'get'})
 					if (anu.error) return reply(anu.error)
 					teks = `*Title* : ${anu.title}\n*Filesize* : ${anu.filesize}`
 					thumb = await getBuffer(anu.thumb)
