@@ -13,6 +13,7 @@ ${ig}
 ● *#sticker*
 ● *_#gifstiker_*
 ● *_#music [judul]_*
+● *_#lirik [judul]_*
 ● *_#ytmp3 [link yt]_*
 ● *_#hidetag_*
 ● *_#toimg_*
