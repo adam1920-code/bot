@@ -7,29 +7,13 @@ const help = (prefix) => {
 *DANA  : 083153843600*
 [ *DONASI ADALAH LANGKAH UNTUK MEMBANTU BOT TETAP AKTIF* ]
 
+   ✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
+  *BOT INI ADALAH BOT MUSIC OFFICIAL*
+   ✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
 
-*INI ADALAH MENU SIMPLE YEONGSILL BOT*
-✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
-        𝙇𝙞𝙨𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙
-✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
+● *${prefix}music [judul]*
 
-● *${prefix}sticker*
-● *${prefix}#gifstiker*
-● *${prefix}#music [judul]*
-● *${prefix}#lirik [judul]*
-● *${prefix}#ytmp3 [link yt]*
-● *${prefix}#tts id (teks)*
-● *${prefix}#toimg*
-● *${prefix}#tagall*
-● *${prefix}#spamcall [6283153833333*
-● *${prefix}#pinterest*
-● *${prefix}#ocr*
-● *${prefix}#wiki (search)*
-● *${prefix}#spamcall [62831555555]*
-● *${prefix}#ytmp3 [link]*
-● *${prefix}#ytmp4 [link]*
-● *${prefix}#tomp3 [tag vidio]*
-● *${prefix}#lirik [judul]*
+Note: *GUNAKAN BOT DENGAN BIJAK*
 вσт ιηι ∂ιвυαт σℓєн:
 A.D.A.M ✔
 }
