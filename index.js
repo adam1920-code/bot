@@ -2102,7 +2102,7 @@ async function starts() {
 						reply('Suksess broadcast')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `[ *FXC7BOT BROADCAST* ]\n\n${body.slice(4)}`)
+							sendMess(_.jid, `[ *BOT MUSIC™ BROADCAST* ]\n\n${body.slice(4)}`)
 						}
 						reply('Suksess broadcast')
 					}
