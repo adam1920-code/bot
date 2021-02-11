@@ -1,5 +1,5 @@
 
-const help = (prefix, ig, name, uptime, pushname2, user, tanggal, jam) => { 
+const help = (prefix) => { 
 	return `
       
       *D.O.N.A.S.I*	
