@@ -1,4 +1,3 @@
-
 const help = (prefix) => { 
 	return `
       
@@ -8,14 +7,25 @@ const help = (prefix) => {
 [ *DONASI ADALAH LANGKAH UNTUK MEMBANTU BOT TETAP AKTIF* ]
 
    ✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
-  *BOT INI ADALAH BOT MUSIC OFFICIAL*
+         *MENU BOT MUSIC*
    ✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
 
 ● *${prefix}music [judul]*
 
+    ✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
+          *FITUR SUPPORT*
+    ✘ ▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬ ✘
+
+● *${prefix}sticker*
+● *${prefix}gifsticker*
+● *${prefix}stickergif*
+● *${prefix}toimg*
+
+
 Note: *GUNAKAN BOT DENGAN BIJAK*
 вσт ιηι ∂ιвυαт σℓєн:
 A.D.A.M ✔
+`
 }
 
   exports.help = help
